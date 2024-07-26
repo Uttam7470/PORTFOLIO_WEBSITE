@@ -12,8 +12,7 @@ export const Bio = {
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. Skilled in HTML, CSS, JavaScript, and React, I create responsive and visually appealing web interfaces. With a passion for learning and a positive attitude, I am dedicated to delivering high-quality results and making meaningful contributions.",
     github: "https://github.com/Uttam7470",
-    // resume:
-      // "https://app.rezi.ai/s/7WkHYoo6wDHTSnqHAAsf",
+    resume: "app.rezi.ai/s/Ju79aiu6uicg3R69ZbS4",
     linkedin: "https://www.linkedin.com/in/uttam-patidar7470/",
     twitter: "https://twitter.com/",
     insta: "https://www.instagram.com/u__4__uttam/",
